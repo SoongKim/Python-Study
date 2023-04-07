@@ -1,0 +1,13 @@
+,TBL_NM,PRD_DE,TBL_ID,ITM_NM,ITM_NM_ENG,ITM_ID,ORG_ID,C1_OBJ_NM,C1_OBJ_NM_ENG,DT,PRD_SE,C1,C1_NM,C1_NM_ENG,UNIT_NM,UNIT_NM_ENG
+0,코스피 200 지수,202212,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,291.1,M,13102792815A.02,연월말,Closing,,
+1,코스피 200 지수,202301,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,317.26,M,13102792815A.02,연월말,Closing,,
+2,코스피 200 지수,202302,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,314.8,M,13102792815A.02,연월말,Closing,,
+3,코스피 200 지수,202212,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,-29.9,M,13102792815A.03,등락폭,Change,,
+4,코스피 200 지수,202301,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,26.16,M,13102792815A.03,등락폭,Change,,
+5,코스피 200 지수,202302,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,-2.46,M,13102792815A.03,등락폭,Change,,
+6,코스피 200 지수,202212,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,-9.31,M,13102792815A.04,등락률,Change Rate,%,%
+7,코스피 200 지수,202301,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,8.99,M,13102792815A.04,등락률,Change Rate,%,%
+8,코스피 200 지수,202302,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,-0.78,M,13102792815A.04,등락률,Change Rate,%,%
+9,코스피 200 지수,202212,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,307.39,M,13102792815A.05,평균,Average,,
+10,코스피 200 지수,202301,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,310.71,M,13102792815A.05,평균,Average,,
+11,코스피 200 지수,202302,DT_343_2010_S0028,코스피 200 지수,KOSPI 200 index,13103792815T1,343,주가구분별,By stock price classification,320.85,M,13102792815A.05,평균,Average,,
