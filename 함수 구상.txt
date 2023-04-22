@@ -1,0 +1,25 @@
+주어진 정보 : 입력 일자 정보와 회귀 일자 수
+	ex. 20230312, 150
+inputData = 20230312
+pastData = 150
+
+
+yearData = int(str(inputData)[0:4])
+
+monthData = int(str(inputData)[4:6])
+
+dateData = int(str(inputData)[6:])
+
+
+Case 01. dateData > pastData인 경우
+
+Case 02. dateData == pastData인 경우
+
+Case 03. dateData < pastData인 경우
+
+	val01 = pastData - dateData
+
+	Case 04. val01 
+
+
+
